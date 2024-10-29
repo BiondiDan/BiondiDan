@@ -16,10 +16,6 @@
   <a href="https://www.twitch.tv/gringo_solitario" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
 </div>
 
-<br>
-
-![Snake animation](https://github.com/DAnielByWhere/blob/output/github-contribution-grid-snake.svg)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9FF5E&text_color=0000FF&height=120&section=footer"/>
 
 <!--
